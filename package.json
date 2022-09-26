@@ -1,0 +1,22 @@
+{
+  "name": "banoonav",
+  "version": "1.0.0",
+  "description": "personal navbar",
+  "main": "Header.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shirinbano/banoonav.git"
+  },
+  "keywords": [
+    "navbar"
+  ],
+  "author": "shirin banoo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shirinbano/banoonav/issues"
+  },
+  "homepage": "https://github.com/shirinbano/banoonav#readme"
+}
