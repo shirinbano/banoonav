@@ -17,7 +17,7 @@ const Header = ({ headClass, leftTxt, rightTxt, btnClass }) => {
                         <div className="position-relative d-inline-block">
                             <button className="border-0">
                                 <a className={`${btnClass ? btnClass : "bg-orange text-decoration-none text-white p-2 rounded"}`}>
-                                    <img src={UserImg} style={{ width: '13%' }} className='pe-lg-2 align-text-top' />
+                                    <img src={UserImg} className=' headerImg pe-lg-2 align-text-top' />
                                     <b className="fs-7">{rightTxt ? rightTxt : 'Giriş Yap ya da Üye Ol'}</b>
                                 </a>
                             </button>

@@ -19,3 +19,7 @@ a {
   .headerHeight{
     height: 44px;
   }
+
+  .headerImg{
+    width: 13%;
+  }
