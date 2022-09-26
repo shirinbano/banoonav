@@ -1,6 +1,6 @@
 {
   "name": "banoonav",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "personal nav",
   "main": "Header.js",
   "dependencies": {
@@ -9,10 +9,8 @@
     "@babel/plugin-syntax-jsx": "^7.18.6",
     "@babel/plugin-transform-react-jsx": "^7.19.0",
     "@babel/preset-env": "^7.19.1",
-    "@babel/preset-react": "^7.18.6",
     "anymatch": "^3.1.2",
     "babel-loader": "^8.2.5",
-    "babel-preset-react": "^6.24.1",
     "binary-extensions": "^2.2.0",
     "bootstrap": "^5.2.1",
     "braces": "^3.0.2",
@@ -54,6 +52,5 @@
   "bugs": {
     "url": "https://github.com/shirinbano/banoonav/issues"
   },
-  "homepage": "https://github.com/shirinbano/banoonav#readme",
-  "devDependencies": {}
+  "homepage": "https://github.com/shirinbano/banoonav#readme"
 }
