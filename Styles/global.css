@@ -15,3 +15,7 @@ a {
   * {
     box-sizing: border-box;
   }
+
+  .headerHeight{
+    height: 44px;
+  }
